@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "O Reino Doce começa a sofrer com uma estranha decadência: as cores estão desbotando, os doces estão azedando, e ninguém sabe o motivo. A Princesa Jujuba descobre que isso está acontecendo porque o Coração de Cristal, uma joia mágica que mantém o equilíbrio emocional de todos os reinos, está rachando. O que você fará?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
