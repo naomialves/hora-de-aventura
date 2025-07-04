@@ -2,7 +2,7 @@
     --cor-fundo: #01080E ;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
+    --cor-destaque: #ffffff;
     --cor-texto: #D7F9FF;
 
 }
@@ -14,11 +14,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(image.png) no-repeat center center fixed;
+    background: url(img/image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .caixa-principal{
-    background-color: var(--cor-principal);
+    background-color:transparent;
     width: 90%;
     max-width: 600px;
     text-align: center;
