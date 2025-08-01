@@ -49,25 +49,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Investigar na Floresta Sombria, onde dizem que um antigo mago vive.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                afirmacao:"Finn sabe que as respostas podem estar nas profundezas da Floresta Sombria, mesmo que seja perigoso."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Buscar a ajuda da Princesa Jujuba, que conhece muitos segredos do reino.",
+                afirmacao: "Finn confia no conhecimento e na sabedoria da Princesa para encontrar uma solução."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Após conseguir pistas, Finn encontra uma poção mágica capaz de quebrar feitiços, mas para usá-la ele precisa do ingrediente mais raro: a lágrima de um dragão doce. O que ele faz?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Finn decide seguir as pistas até o dragão doce, acreditando que essa será a maneira mais rápida de obter a lágrima. Porém, ao longo da jornada, ele começa a sentir que talvez tenha escolhido o caminho errado, já que os desafios são maiores do que ele imaginava.",
+                afirmacao: "Finn decide procurar o dragão doce para conseguir a lágrima, mas acaba se sentindo preso a uma jornada mais difícil do que imaginava, questionando se deveria ter escolhido outro caminho para quebrar o feitiço."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            }
+                texto:"Embora as pistas sejam úteis, Finn começa a se perguntar se deveria confiar apenas nelas para alcançar seu objetivo. Ele percebe que, para ter sucesso, precisará confiar também na sua própria intuição e sabedoria.",
+                afirmacao: "Ao buscar a lágrima do dragão doce, Finn percebe que confiar apenas em pistas pode ser arriscado. Ele começa a entender que sua própria sabedoria e decisões são cruciais para alcançar seu objetivo, e que não pode depender apenas de atalhos mágicos."
         ]
     },
 ];
