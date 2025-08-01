@@ -7,8 +7,6 @@ Histórias interativas: O site oferece uma série de aventuras que os usuários 
 
 Desafios e puzzles: Através de enigmas e desafios, os usuários são levados a pensar de maneira criativa para avançar na história.
 
-Exploração de personagens: O site permite a interação com personagens do universo de "Hora de Aventura", dando aos usuários a oportunidade de viver a experiência de ser parte do mundo fantástico de Ooo.
-
 Tecnologias Usadas
 HTML5: Para estruturar as páginas de forma semântica e acessível.
 
@@ -20,8 +18,6 @@ JQuery: Biblioteca para facilitar a manipulação do DOM e tornar a interação 
 
 Como Usar
 Acesse o site através do link: Hora de Aventura
-
-Escolha uma das aventuras disponíveis.
 
 Faça suas escolhas e explore diferentes caminhos nas histórias.
 
