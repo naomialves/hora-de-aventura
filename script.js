@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "Ficou preocupado com o futuro do Reino Doce e o que a joia rachada pode causar."
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Hora da aventura!!",
                 afirmacao:  "Acredita que a joia pode ser consertada e quer descobrir como ajudar a restaurar o equilíbrio."
             }
         ]
