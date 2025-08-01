@@ -66,8 +66,9 @@ const perguntas = [
             },
             {
                 texto:"Embora as pistas sejam úteis, Finn começa a se perguntar se deveria confiar apenas nelas para alcançar seu objetivo. Ele percebe que, para ter sucesso, precisará confiar também na sua própria intuição e sabedoria.",
-                afirmacao: "Ao buscar a lágrima do dragão doce, Finn percebe que confiar apenas em pistas pode ser arriscado. Ele começa a entender que sua própria sabedoria e decisões são cruciais para alcançar seu objetivo, e que não pode depender apenas de atalhos mágicos."
-        ]
+               afirmacao: "Ao buscar a lágrima do dragão doce, Finn percebe que confiar apenas em pistas pode ser arriscado. Ele começa a entender que sua própria sabedoria e decisões são cruciais para alcançar seu objetivo, e que não pode depender apenas de atalhos mágicos."
+            }
+            ]
     },
 ];
 
